@@ -1,1 +1,1 @@
-web:gunicorn tempaltedemo.wsgi --log-file - 
+web: gunicorn tempaltedemo.wsgi --log-file -
